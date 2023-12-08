@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase2-SauceDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c84f8410-ecfb-453f-8778-a06c6baf111e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51f15580-b410-4f0d-95ec-3d01cfead229</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14579ba5-787b-41cd-ba78-e03ddf20fa5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>321c7ffb-0bfb-475e-90d7-e7fdba94c54b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nikhil'</defaultValue>
+      <description></description>
+      <id>51f15580-b410-4f0d-95ec-3d01cfead229</id>
+      <masked>false</masked>
+      <name>var_firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Arora'</defaultValue>
+      <description></description>
+      <id>14579ba5-787b-41cd-ba78-e03ddf20fa5e</id>
+      <masked>false</masked>
+      <name>var_lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'201293'</defaultValue>
+      <description></description>
+      <id>321c7ffb-0bfb-475e-90d7-e7fdba94c54b</id>
+      <masked>false</masked>
+      <name>var_zipcode</name>
+   </variable>
+</TestCaseEntity>

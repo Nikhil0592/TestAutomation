@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_cb-col text-right cb-col-2</name>
+   <tag></tag>
+   <elementGuidId>8b32c708-0645-48dc-bf28-3b1820de8f1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='innings_1']/div/div[4]/div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fa4a77e-e128-423b-bacc-2e502044d1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cb-col text-right cb-col-2</value>
+      <webElementGuid>16d366e4-ab28-4522-aa80-09bffc9eb4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;innings_1&quot;)/div[@class=&quot;cb-col cb-col-100 cb-ltst-wgt-hdr&quot;]/div[@class=&quot;cb-col cb-col-100 cb-scrd-itms&quot;]/div[@class=&quot;cb-col text-right cb-col-2&quot;]</value>
+      <webElementGuid>1ddc4635-5b71-4c0c-a65f-ffbca70a0666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='innings_1']/div/div[4]/div[8]</value>
+      <webElementGuid>595523ab-9779-410a-9394-25f6cf54e762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[8]</value>
+      <webElementGuid>fa4be897-78fa-4705-b046-adad35133445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AB404EFC713F148D8B18276054CDFD54",
+  "keywordClasses": [
+    {
+      "name": "itemtotal.TotalAmountWithTax",
+      "keywordMethods": [
+        {
+          "name": "itemTotalWithTax",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

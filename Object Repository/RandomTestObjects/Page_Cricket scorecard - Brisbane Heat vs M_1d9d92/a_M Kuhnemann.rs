@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_M Kuhnemann</name>
+   <tag></tag>
+   <elementGuidId>3bdb27b5-8d76-4f9d-992a-3e51b3778d35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='innings_1']/div/div[10]/div[2]/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90dcdc52-d709-461e-bb53-f586f10e8a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profiles/13141/m-kuhnemann</value>
+      <webElementGuid>3395854a-0301-429f-a70b-6d8ce2f8473d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View profile of M Kuhnemann</value>
+      <webElementGuid>b59ebd21-8bdf-47bb-beed-23e80a52d26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cb-text-link</value>
+      <webElementGuid>e5b168fa-c38c-4cae-83f2-c11a6f76b261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M Kuhnemann </value>
+      <webElementGuid>9932687b-8003-44d9-9161-01593abc6aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;innings_1&quot;)/div[@class=&quot;cb-col cb-col-100 cb-ltst-wgt-hdr&quot;]/div[@class=&quot;cb-col cb-col-100 cb-scrd-itms&quot;]/div[@class=&quot;cb-col-73 cb-col&quot;]/a[@class=&quot;cb-text-link&quot;]</value>
+      <webElementGuid>fc4cc0b5-cacc-4ed9-90d8-48daea4b9d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='innings_1']/div/div[10]/div[2]/a[6]</value>
+      <webElementGuid>7639e8db-3e6d-4b22-9d83-7ce3524e5d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'M Kuhnemann')]</value>
+      <webElementGuid>ae6fe01a-b73c-4e16-9194-0b29b6cc4e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profiles/13141/m-kuhnemann')]</value>
+      <webElementGuid>b0dcaeb7-8571-4245-8fe1-84074861cb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/a[6]</value>
+      <webElementGuid>c54460a7-a769-4d45-b1f5-93de2890c3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profiles/13141/m-kuhnemann' and @title = 'View profile of M Kuhnemann' and (text() = 'M Kuhnemann ' or . = 'M Kuhnemann ')]</value>
+      <webElementGuid>e045a1e5-bb4e-428a-a4dd-1bf36bda230c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

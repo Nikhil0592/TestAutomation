@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_99</name>
+   <tag></tag>
+   <elementGuidId>87055ae1-ea30-4ac8-a007-700cc057daeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='innings_1']/div/div[4]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1deec939-7d2e-45e0-a82f-2f1d83156a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cb-col cb-col-8 text-right text-bold</value>
+      <webElementGuid>d6860eed-fdfb-4930-825f-e1ded90c25ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>99</value>
+      <webElementGuid>b09e53a0-4d17-44de-8058-8dc174721eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;innings_1&quot;)/div[@class=&quot;cb-col cb-col-100 cb-ltst-wgt-hdr&quot;]/div[@class=&quot;cb-col cb-col-100 cb-scrd-itms&quot;]/div[@class=&quot;cb-col cb-col-8 text-right text-bold&quot;]</value>
+      <webElementGuid>8c911d37-f7cb-4b32-a417-b6ce7ed13121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='innings_1']/div/div[4]/div[3]</value>
+      <webElementGuid>fc31b6a1-efcf-4ce3-b447-f07f2896b2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[4]/div[3]</value>
+      <webElementGuid>131afd41-cfb6-478a-9b00-5a457e1e6eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '99' or . = '99')]</value>
+      <webElementGuid>24d573e5-69f8-41b5-a572-82cd8c102df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

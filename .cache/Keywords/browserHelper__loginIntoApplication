@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1DD5C6A2EC060A9B4AD771B073BDB5B7",
+  "keywordClasses": [
+    {
+      "name": "browserHelper.loginIntoApplication",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

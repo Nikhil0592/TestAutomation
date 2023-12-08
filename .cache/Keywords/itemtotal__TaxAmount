@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "6A0923FA92AB93E2E936A468D9E68E85",
+  "keywordClasses": [
+    {
+      "name": "itemtotal.TaxAmount",
+      "keywordMethods": [
+        {
+          "name": "itemTotalTax",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "tax",
+          "parameters": [
+            {
+              "name": "taxOnItems",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

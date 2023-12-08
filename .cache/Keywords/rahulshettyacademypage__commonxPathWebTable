@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "AB7DF864B60480FD4584C25FC3674D8B",
+  "keywordClasses": [
+    {
+      "name": "rahulshettyacademypage.commonxPathWebTable",
+      "keywordMethods": [
+        {
+          "name": "commonLocator",
+          "parameters": [
+            {
+              "name": "driver",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "org.openqa.selenium.WebDriver",
+                "unresolvedClassName": "WebDriver",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

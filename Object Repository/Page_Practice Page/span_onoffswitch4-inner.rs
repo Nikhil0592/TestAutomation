@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_onoffswitch4-inner</name>
+   <tag></tag>
+   <elementGuidId>0d424831-edf8-4a14-926b-9d15eaf92943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.onoffswitch4-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eab3d3c0-6254-476c-943b-83492aad1a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onoffswitch4-inner</value>
+      <webElementGuid>26ec4161-982f-4daa-b4b2-91392f085510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-wrapper&quot;]/div[2]/section[@class=&quot;courses-section&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;sec-title clearfix&quot;]/div[@class=&quot;pull-right&quot;]/div[@class=&quot;onoffswitch4 float-right&quot;]/label[@class=&quot;onoffswitch4-label&quot;]/span[@class=&quot;onoffswitch4-inner&quot;]</value>
+      <webElementGuid>9abd2e3b-b08f-4068-b384-60594a530441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Practice Page/iframe_iframe-name</value>
+      <webElementGuid>c05460f1-e9bd-4efd-921a-b7418b78db02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>923252f9-745a-44e3-9352-07571c6cd2eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

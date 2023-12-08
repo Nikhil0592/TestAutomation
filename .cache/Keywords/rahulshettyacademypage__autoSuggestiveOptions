@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "A7F8C1245A270F68E0E741B723A44125",
+  "keywordClasses": [
+    {
+      "name": "rahulshettyacademypage.autoSuggestiveOptions",
+      "keywordMethods": [
+        {
+          "name": "radioBtn",
+          "parameters": [
+            {
+              "name": "inputText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "countryDisplayed",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

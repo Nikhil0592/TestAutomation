@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_33</name>
+   <tag></tag>
+   <elementGuidId>46d6d30a-2702-4078-8ee9-82ad03f5c121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(9) > td:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='product']/tbody/tr[9]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ef4172f2-3b58-4c1b-a411-436dabf7ab9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>24cce12b-2dc1-433f-aa58-d1e7e286210c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;block large-row-spacer&quot;]/div[@class=&quot;right-align&quot;]/fieldset[2]/div[@class=&quot;tableFixHead&quot;]/table[@id=&quot;product&quot;]/tbody[1]/tr[9]/td[4]</value>
+      <webElementGuid>2a0a6b0d-cf98-4c58-a488-75e5a62ff484</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='product']/tbody/tr[9]/td[4]</value>
+      <webElementGuid>f02568be-b45f-49e1-91b7-8d2a9e3ecc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[4]</value>
+      <webElementGuid>60427608-2e8f-4b04-9f67-a1a1058fe34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '33' or . = '33')]</value>
+      <webElementGuid>a9ea3b31-24da-4ec1-9dd0-64cf75fff797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

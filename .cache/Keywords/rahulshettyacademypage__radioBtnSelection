@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A1459AE97822C3CB39DAFCE9A4D26076",
+  "keywordClasses": [
+    {
+      "name": "rahulshettyacademypage.radioBtnSelection",
+      "keywordMethods": [
+        {
+          "name": "clickRadioButton",
+          "parameters": [
+            {
+              "name": "buttonName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
