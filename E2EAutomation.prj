@@ -4,7 +4,6 @@
    <name>E2EAutomation</name>
    <tag></tag>
    <UUID>6c52f181-0828-4f74-8378-a4973be94eb3</UUID>
-   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\Nikhil\Katalon Studio\E2EAutomation\E2EAutomation.prj</projectFileLocation>

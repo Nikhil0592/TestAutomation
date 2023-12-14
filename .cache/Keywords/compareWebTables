@@ -1,0 +1,145 @@
+{
+  "keywordFileContentHash": "0A1F003E5457204FF5639C85071BD0B0",
+  "keywordClasses": [
+    {
+      "name": "compareWebTables",
+      "keywordMethods": [
+        {
+          "name": "compareActExpMap",
+          "parameters": [
+            {
+              "name": "primaryKeyName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "actMap",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "java.util.Map",
+                    "unresolvedClassName": "Map",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      },
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      }
+                    ],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "expMap",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "java.util.Map",
+                    "unresolvedClassName": "Map",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      },
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      }
+                    ],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "regimeName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -35,5 +35,4 @@ public class TaxAmount {
 	public static float tax(taxOnItems) {
 		System.out.println(taxOnItems)
 	}
-	
 }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>webTableTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>811b6b2b-69fb-4731-a39d-26fc98b5dcab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6df66d7a-d296-47e8-b1a0-92288778f9af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>6df66d7a-d296-47e8-b1a0-92288778f9af</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
