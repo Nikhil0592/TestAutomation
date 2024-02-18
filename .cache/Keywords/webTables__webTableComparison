@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "9E9A03DB76C24F5D852256F43C4D3747",
+  "keywordFileContentHash": "1EAA93E9563549272D2020C2587783A1",
   "keywordClasses": [
     {
       "name": "webTables.webTableComparison",
@@ -136,7 +136,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Refresh browser\n\t */"
+          "javadoc": "/**\r\n\t * Refresh browser\r\n\t */"
         }
       ]
     }
